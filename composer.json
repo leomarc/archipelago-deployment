@@ -117,6 +117,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
+        "process-timeout": 0,
         "discard-changes": true,
         "allow-plugins": {
             "composer/installers": true,
